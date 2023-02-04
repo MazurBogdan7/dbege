@@ -284,3 +284,36 @@ E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\MySQL.
 E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\Styles\CustomControls.baml
 E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\Styles\Fonts.baml
 E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\MySQL.csprojAssemblyReference.cache
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\bin\Debug\MySQL.exe.config
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\bin\Debug\MySQL.exe
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\bin\Debug\MySQL.pdb
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\bin\Debug\ControlzEx.dll
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\bin\Debug\MahApps.Metro.dll
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\bin\Debug\MySql.Data.dll
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\bin\Debug\ControlzEx.pdb
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\bin\Debug\Google.Protobuf.xml
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\bin\Debug\MahApps.Metro.pdb
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\bin\Debug\MahApps.Metro.xml
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\bin\Debug\MySql.Data.xml
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\MySQL.csproj.AssemblyReference.cache
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\MySQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\Resources\Icons.baml
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\MainWindow.g.cs
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\App.g.cs
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\MySQL_MarkupCompile.cache
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\MySQL_MarkupCompile.lref
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\App.baml
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\MainWindow.baml
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\Styles\Fonts.baml
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\Styles\CustomControls.baml
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\MySQL.g.resources
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\MySQL.csproj.GenerateResource.cache
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\MySQL.csproj.CopyComplete
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\MySQL.exe
+C:\Users\alers\Source\Repos\MySQLBasics\MySQL\obj\Debug\MySQL.pdb

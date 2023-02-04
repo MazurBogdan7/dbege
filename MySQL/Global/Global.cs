@@ -6,7 +6,7 @@ namespace MySQL
 
     public static class Database
     {
-        public static string ConnectionString = "datasource=localhost; port=3306; username=dasso; password="; 
+        public static string ConnectionString = "datasource=localhost; port=3306; password = 1q2we3r4 ; username=root; database = dbege"; 
 
         public enum ReadingType { DataAdapter, DataReader };
 
